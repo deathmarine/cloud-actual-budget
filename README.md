@@ -1,6 +1,6 @@
 # Deploy to Azure
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fdeathmarine%2Fcloud-actual-budget%2Fmain%2Farm-templates%2Fazuredeploy.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fdeathmarine%2Fcloud-actual-budget%2Fmaster%2Farm-templates%2Fazuredeploy.json)
 
 
 This template deploys:
